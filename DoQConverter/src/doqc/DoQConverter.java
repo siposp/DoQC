@@ -7,6 +7,10 @@ public class DoQConverter {
 		this.test_i=-1;
 	}
 	
+	public void calculate(){
+		
+	}
+	
 	public void beta(){
 		this.test_i++;
 	}
